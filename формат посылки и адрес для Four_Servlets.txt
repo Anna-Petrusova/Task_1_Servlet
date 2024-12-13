@@ -1,0 +1,24 @@
+(метод:POST)http://localhost:8080/First_Servlet_war_exploded/add
+{
+   "name":"tiger",
+    "surname":"one",
+    "salary":4000
+}
+
+(метод:POST)http://localhost:8080/First_Servlet_war_exploded/get
+{
+    "id": 0
+}
+
+(метод:DELETE)http://localhost:8080/First_Servlet_war_exploded/delete
+{
+    "id": 2
+}
+
+(метод:PUT) http://localhost:8080/First_Servlet_war_exploded/put
+{
+    "id": 5,
+   "name":"ranm",
+    "surname":"one",
+    "salary":6000
+}

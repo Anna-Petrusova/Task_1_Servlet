@@ -1,0 +1,6 @@
+(метод:POST)http://localhost:8080/First_Servlet_war_exploded/calculator
+{
+    "a":5,
+   "b":1,
+    "math":"-"
+}
